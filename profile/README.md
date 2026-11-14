@@ -1,3 +1,3 @@
 # Project Hiro
 
-This project aims to create complex service for reverse engineering recreating industrial parts
+Independent R&D initiative exploring automated reverse engineering and rapid part recreation.
